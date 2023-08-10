@@ -66695,7 +66695,7 @@ A.uH.prototype={
 ai(){var s=null,r=A.fa(A.a([],t.zX)),q=A.If(s,t.i),p=new A.aU(new Float64Array(16))
 p.cA()
 p.aD(0,1)
-return new A.LY(new A.Xo(),new A.ui(r),new A.a1t(!0,q),p,A.a(["Home","About","Skills","Portfolio","Education"],t.s),A.a([new A.u2(s),new A.Bi(s),new A.v6(s),new A.Ef(s),new A.v5(s)],t.D),A.wx(!0),B.j)}}
+return new A.LY(new A.Xo(),new A.ui(r),new A.a1t(!0,q),p,A.a(["Home","About","Skills","Education","Portfolio"],t.s),A.a([new A.u2(s),new A.Bi(s),new A.v6(s),new A.Ef(s),new A.v5(s)],t.D),A.wx(!0),B.j)}}
 A.LY.prototype={
 q4(a,b){return this.NN(0,b)},
 NN(a,b){var s=0,r=A.X(t.z),q=this
